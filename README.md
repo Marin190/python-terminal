@@ -5,16 +5,15 @@ A Python-based custom terminal that provides Linux-like functionality with an ex
 ## Features
 
 - Linux-like command prompt with username, hostname, and current directory
-- Command history management (limited to 50 entries)
-- Built-in commands: cd, pwd, ls, cat, touch, rm, cp, mv
+- Built-in commands: cd, pwd, ls, cat, touch, rm, cp, mv, history
 - Module system for extending functionality
-- Custom module support
+- Community based evolution
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Marin190/python-terminal
 cd terminal
 ```
 
