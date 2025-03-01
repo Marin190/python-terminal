@@ -6,7 +6,7 @@ A Python-based custom terminal that provides Linux-like functionality with an ex
 
 - Linux-like command prompt with username, hostname, and current directory
 - Built-in commands: cd, pwd, ls, cat, touch, rm, cp, mv, history
-- Module system for extending functionality
+- Module system for extending functionality ([see here for modules](https://github.com/Marin190/python-terminal-modules))
 - Community based evolution
 
 ## Installation
